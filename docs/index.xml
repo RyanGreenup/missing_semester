@@ -6,11 +6,53 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index_shell</title>
+    <link>https://quartz.jzhao.xyz/index_shell</link>
+    <guid>https://quartz.jzhao.xyz/index_shell</guid>
+    <description>Shell The shell is the most efficient way to interact with a computer. It is a command-line interface (CLI) that allows you to interact with via text. Text is the best way to interact with a computer as it’s quick, flexible and reproducible.</description>
+    <pubDate>Wed, 31 Jul 2024 23:53:01 GMT</pubDate>
+  </item><item>
+    <title>index_vim-keybindings</title>
+    <link>https://quartz.jzhao.xyz/index_vim-keybindings</link>
+    <guid>https://quartz.jzhao.xyz/index_vim-keybindings</guid>
+    <description>Vim keybindings they’re better, learn them.</description>
+    <pubDate>Wed, 31 Jul 2024 23:53:00 GMT</pubDate>
+  </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Missing Semester This page lists skills and resources that are useful for a student in a STEM discipline, primarily focusing on effective computer and developing a workflow. ...</description>
-    <pubDate>Wed, 31 Jul 2024 23:28:12 GMT</pubDate>
+    <description>Missing Semester This page lists skills and resources that are useful for a student in a STEM discipline, primarily focusing on effective computer and developing a workflow ...</description>
+    <pubDate>Wed, 31 Jul 2024 23:52:46 GMT</pubDate>
+  </item><item>
+    <title>index_knowledge-management</title>
+    <link>https://quartz.jzhao.xyz/index_knowledge-management</link>
+    <guid>https://quartz.jzhao.xyz/index_knowledge-management</guid>
+    <description>Knowledge Management Key Ideas Use a knowledge management system to organize your notes and resources. Use a reference manager to organize your citations and PDFs.</description>
+    <pubDate>Wed, 31 Jul 2024 23:44:34 GMT</pubDate>
+  </item><item>
+    <title>emacs</title>
+    <link>https://quartz.jzhao.xyz/emacs</link>
+    <guid>https://quartz.jzhao.xyz/emacs</guid>
+    <description>emacs.</description>
+    <pubDate>Wed, 31 Jul 2024 23:38:42 GMT</pubDate>
+  </item><item>
+    <title>neovim</title>
+    <link>https://quartz.jzhao.xyz/neovim</link>
+    <guid>https://quartz.jzhao.xyz/neovim</guid>
+    <description>neovim.</description>
+    <pubDate>Wed, 31 Jul 2024 23:38:24 GMT</pubDate>
+  </item><item>
+    <title>index_knowledge-management_org-mode</title>
+    <link>https://quartz.jzhao.xyz/index_knowledge-management_org-mode</link>
+    <guid>https://quartz.jzhao.xyz/index_knowledge-management_org-mode</guid>
+    <description>org mode The one true documentation format.</description>
+    <pubDate>Wed, 31 Jul 2024 23:37:43 GMT</pubDate>
+  </item><item>
+    <title>index_knowledge-management_emacs</title>
+    <link>https://quartz.jzhao.xyz/index_knowledge-management_emacs</link>
+    <guid>https://quartz.jzhao.xyz/index_knowledge-management_emacs</guid>
+    <description>emacs 🧭 Index Knowledge Management x Emacs .</description>
+    <pubDate>Wed, 31 Jul 2024 23:37:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
