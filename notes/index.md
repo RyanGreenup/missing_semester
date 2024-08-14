@@ -39,15 +39,3 @@ This page lists skills and resources that are useful for a student in a STEM dis
 - Mkdocs
 
 
-## Version Control
-- [/Vim keybindings](index_vim-keybindings.md)
-- Version Control
-- Text Editing
-- Data Wrangling
-- Remote Machines
-- Make
-- Python
-- LLMs
-
-
-
