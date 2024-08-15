@@ -1,6 +1,6 @@
 
 build:
-    cd quartz
+    cd quartz && \
     npx quartz build --output ../docs
 
 
