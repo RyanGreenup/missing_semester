@@ -18,8 +18,18 @@ This page lists skills and resources that are useful for a student in a STEM dis
 
 ## Version Control
 ### Workshop 4: Version Control
+- Basics of git
+- Branches
+- Remote repository
+- Tools
+    - Gitui
+    - VSCode
 
 ### Workshop 5: Pull Requests
+- Forking a project
+- Pull request
+- Collaborating with other people
+- Gitea / Forgejo
 
 ## Programming Tools
 ### Workshop 6: Debugging
@@ -32,6 +42,7 @@ This page lists skills and resources that are useful for a student in a STEM dis
 ### Workshop 9: Org Mode
 - docs
 - babel
+- Writing Documentation
 
 ### Workshop 10: Static Site
 - Quartz
